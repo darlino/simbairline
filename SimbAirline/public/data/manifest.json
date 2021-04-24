@@ -1,0 +1,35 @@
+{
+  "short_name": "Simb Airlines",
+  "name": "Simb Airlines",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "162x162"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "513x513",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen&utm_medium=alloyme&utm_campaign=alloy",
+  "description": "Simb Airlines is a private jet, hotels, cars and restaurants booking system",
+  "orientation":"any",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000",
+  "background_color": "#ffffff"
+}

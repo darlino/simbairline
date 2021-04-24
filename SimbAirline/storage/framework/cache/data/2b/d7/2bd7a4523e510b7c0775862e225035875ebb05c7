@@ -1,0 +1,6 @@
+9999999999s:580:"<h1 style="text-align: center;">Bienvenue!</h1>
+<h3>Salut [first_name] [last_name]</h3>
+<p>Merci de vous etre enregistrer sur <strong>Simb-Airline</strong>! Nos esp&eacute;rons vous offrir des moments m&eacute;morables. Utiliser ce lien pour activer votre compte.</p>
+<p style="text-align: center;"><span style="color: #e83e8c; font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 12.25px; text-align: left; background-color: #e9ecef;">[button_verify]</span></p>
+<hr />
+<p><strong>Simb-Airline Corporation</strong></p>";
